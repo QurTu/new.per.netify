@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+}
+.backgraund-img {
+    display: inline-block;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-image: url(../img/header.jpg);
+    position: absolute;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.black-opasity {
+    display: inline-block;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+    
+
+     
+ 

@@ -1,0 +1,24 @@
+header {
+    display: inline block;
+    position: absolute;
+    z-index: 2;
+    color: aliceblue;
+    margin-top:300px;
+    width: 100%;
+    text-align: center;
+    padding: 0 25px;
+}
+    header > p {
+        display: inline-block;
+        width: 100%;
+        font-size:  2.5vw;
+        line-height: 3vw;
+        font-weight: 100;
+    }
+    header > h1 {
+        display: inline-block;
+        width: 100%;
+        font-size:  6vw;
+        line-height: 6vw;
+        
+    }

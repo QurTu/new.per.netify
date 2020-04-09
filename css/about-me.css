@@ -1,0 +1,5 @@
+.about-me {
+    padding-top: calc(100vh + 100px); 
+    height: 200vh;
+    background-color: aqua;
+}
